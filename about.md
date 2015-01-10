@@ -1,8 +1,19 @@
 ---
 layout: page
-title: About Me
+title: About Pixyll
+permalink: /about/
 ---
 
-<p class="message">Welcome to my website! There is not much content here right now but expect to see more as I get going. It will take some time for everything to get up to date but I encourage you to join me for the ride. It will be fun! I promise.</p>
+This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
+([@4lpine](https://twitter.com/4lpine)).
 
-There is no better way to start a corny personal website than with a corny header. I was able to take advantage of GitHub's (@draab) free personal domain offer so here I am.  
+Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
+request a feature, report a bug, or contribute. It's free, and open source
+([MIT](http://opensource.org/licenses/MIT)).
+
+Thanks to the following:
+
+* [BASSCSS](http://basscss.com)
+* [Jekyll](http://jekyllrb.com)
+* [Refills](http://refills.bourbon.io/)
+* [Solarized](http://ethanschoonover.com/solarized)
