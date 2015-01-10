@@ -9,10 +9,10 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 http://lanyon.getpoole.com
+title:               David Raab
+tagline:             'Personal blog'
+description:         'The landing page and personal website of draab!'
+url:                 http://wwww.davidraab.me
 baseurl:             /
 paginate:            5
 
@@ -23,4 +23,4 @@ author:
   email:             markdotto@gmail.com
 
 # Custom vars
-version:             1.0.0
+#version:             1.0.0
