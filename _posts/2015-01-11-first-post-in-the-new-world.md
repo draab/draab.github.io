@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      First Post in the New World
-date:       2015-01-12 12:05
+date:       2015-01-11 12:05
 summary:    I now have a new blog up and running on my own custom domain name! Read on for my plans.
 categories: welcome, personal
 ---
