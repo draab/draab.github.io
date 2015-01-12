@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /porfolio
+permalink: /projects
 ---
 
 #Porfolio
