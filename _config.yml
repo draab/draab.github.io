@@ -1,6 +1,6 @@
 # Site settings
 title:       David Raab
-email:       davidraab@outlook.com
+email:       mail@davidraab.me
 author:      David Raab
 description: "The personal portfolio and landing page of David Raab."
 baseurl:     ""
@@ -23,7 +23,7 @@ show_social_icons: true
 github_username: draab
 stackoverflow_id:
 twitter_username: draab4life
-google_plus_id:
+google_plus_id: 
 linkedin_username:
 bitcoin_url:
 paypal_url:
