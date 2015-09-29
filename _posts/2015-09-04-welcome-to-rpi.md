@@ -1,7 +1,8 @@
 ---
 layout:     post
 title:      Starting Off My RPI Career
-date:       I plan to start posting a little more often now that I am in college.
+date:       2015-09-28 23:00
+summary:    The beginning of the great adventure known as college.
 categories: school, job, professional
 ---
 
