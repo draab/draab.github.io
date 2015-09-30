@@ -1,26 +1,25 @@
 # Site settings
-title: ddbullfrog's blog
+title: David Raab's Resume
 description: ddbullfrog's blog
 favicon: /iCard-Resume/assets/img/avatar.JPG
-baseurl: http://ddbullfrog.github.io/iCard-Resume
-url: http://ddbullfrog.github.io/iCard-Resume
-rss_url: /iCard-Resume/pages/atom.xml
+baseurl: http://www.davidraab.me
+url: http://www.davidraab.me
 
 # Build settings
 markdown: kramdown
 
 # Author settings
 author:
-  name: Dong Liang
-  title: Java Developer
-  address: Auckland, New Zealand
-  email: dongg.liang@gmail.com
+  name: David Raab
+  title: Student at Rensselaer Polytechnic Institute
+  address: Hanover, Massachusetts
+  email: davidfraab@gmail.com
   link: http://ddbullfrog.com
   weibo:
   github: ddbullfrog
   linkedin: ddbullfrog
   twitter: ddbullfrog
-  gavatar: /iCard-Resume/assets/img/avatar.JPG
+  gavatar: assets/img/avatar.JPG
   workHistory:
     - work1:
       company: Finzsoft Solutions Ltd
@@ -53,14 +52,11 @@ author:
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
   languages:
     - language1:
-      name: Chinese
+      name: English Proficient
       proficiency: Native
     - language2:
-      name: English
-      proficiency: Professional
-    - language3:
-      name: Japanese
-      proficiency: Limit
+      name: French
+      proficiency: Limited
   programmingSkills:
     - skill1:
       name: HTML
