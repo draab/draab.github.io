@@ -44,12 +44,17 @@ author:
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
   educationHistory:
     - education1:
-      organization: Northeastern University
-      degree: Bachelor
-      major: Software Engineering
-      started: 2005
-      duration: (2005 - 2009)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      organization: Rensselaer Polytechnic Institute
+      degree: Bachelor of Science
+      major: Electrical Engineering
+      started: 2015
+      duration: (2015 - 2019)
+	  description: Insert Courses I've Taken Here
+	- education2:
+	  organization: Hanover High School
+	  degree: High School Diploma
+	  started: 2011
+	  duration: (2011-2015)
   languages:
     - language1:
       name: English Proficient
