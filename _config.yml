@@ -1,6 +1,6 @@
 # Site settings
-title: David Raab's Resume
-description: ddbullfrog's blog
+title: David Raab's Digital Resume
+description: David Raab's blog
 favicon: /iCard-Resume/assets/img/avatar.JPG
 baseurl: http://www.davidraab.me
 url: http://www.davidraab.me
@@ -22,26 +22,19 @@ author:
   gavatar: assets/img/avatar.JPG
   workHistory:
     - work1:
-      company: Finzsoft Solutions Ltd
-      location: Auckland, New Zealand
-      title: Java Developer
-      started: 2014
-      duration: (2014 - Present)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: Rensselaer Student Union
+      location: Troy, NY
+      title: Junior Systems Administrator
+      started: 2015
+      duration: (September 2015 - present)
+      description: I maintain software and support the student clubs and student union staff. I work with a team of other student employees and the Rensselaer Division of the Chief Information Officer in order to optimize the technical operations of the Rensselaer Union.
     - work2:
-      company: Agfa HealthCare
-      location: Shanghai, China
-      title: Java Developer
-      started: 2012
-      duration: (2012 - 2014)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
-    - work3:
-      company: Citigroup Services and Technology (China) Limited
-      location: Shanghai, China
-      title: Java Developer
-      started: 2009
-      duration: (2009 - 2012)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: IGS Systems
+      location: Plymouth, Massachusetts
+      title: Assistant to the Director of Engineering
+      started: 2015
+      duration: (June 2015 - August 2015)
+      description: I processed computer equipment including iPads and MacBooks as they came into the warehouse and inventoried them in a spreadsheet. I packaged items and shipped them out of the warehouse as orders were placed.
   educationHistory:
     - education1:
       organization: Rensselaer Polytechnic Institute
@@ -53,8 +46,9 @@ author:
     - education2:
       organization: Hanover High School
       degree: High School Diploma
-      started: 2015
+      started: 2011
       duration: (2015-2019)
+      description: High School Education. Include more information here!
   languages:
     - language1:
       name: English Proficient
