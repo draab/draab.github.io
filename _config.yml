@@ -49,12 +49,12 @@ author:
       major: Electrical Engineering
       started: 2015
       duration: (2015 - 2019)
-	  description: Insert Courses I've Taken Here
-	- education2:
-	  organization: Hanover High School
-	  degree: High School Diploma
-	  started: 2011
-	  duration: (2011-2015)
+      description: My Undergrate Education. Will include details in the course I've taken here.
+    - education2:
+      organization: Hanover High School
+      degree: High School Diploma
+      started: 2015
+      duration: (2015-2019)
   languages:
     - language1:
       name: English Proficient
