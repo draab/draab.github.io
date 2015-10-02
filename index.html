@@ -85,6 +85,50 @@ layout: default
                     {% endfor %}
                 </ul>
             {% endif %}
+            {% if site.author.extracirricularExperience %}
+                <h3 class="title with-icon"><span class="fa fa-book cat-title"></span>Education History</h3>
+                <ul class="timeline">
+                    {% for club in site.author.extracirricularExperience %}
+                        <li class="timeline-inverted">
+                            {% if club.started %}
+                                <div class="timeline-badge info">{{ club.started }}</div>
+                            {% endif %}
+                            <div class="timeline-panel grid-block">
+                                <div class="timeline-heading">
+                                    {% if club.organization %}
+                                        <h4 class="timeline-title">{{ club.organization }}</h4>
+                                    {% endif %}
+                                    <p>
+                                        <small class="text-muted">
+                                            {% if club.degree %}
+                                                {{ club.degree }}
+                                            {% endif %}
+                                            {% if club.major %}
+                                                , {{ club.major }}
+                                            {% endif %}
+                                        </small>
+                                    </p>
+                                    {% if club.duration %}
+                                        <p>
+                                            <small class="text-muted"><i class="fa fa-calendar"></i> {{ club.duration }}
+                                            </small>
+                                        </p>
+                                    {% endif %}
+                                </div>
+                                <div class="timeline-body">
+                                    {% if club.description %}
+                                        <p>{{ club.description }}</p>
+                                    {% endif %}
+                                    {% if club.leadership %}
+                                        <h1><b>Leadership Experience</b></h1>
+                                        <p>{{ club.leadership }}</p>
+                                    {% endif %}
+                                </div>
+                            </div>
+                        </li>
+                    {% endfor %}
+                </ul>
+            {% endif %}
         </div>
         <div class="col-md-4">
             {% if site.author.programmingSkills %}
