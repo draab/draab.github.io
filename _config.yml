@@ -42,7 +42,7 @@ author:
       major: Electrical Engineering
       started: 2015
       duration: (2015 - 2019)
-      description: My Undergrate Education. Will include details in the courses I've taken here.
+      description: I am attending classes RPI and also getting involved in the plethora of activties that are always happening on campus. My current class schedule includes Calculus 2, Physics 2, Computer Science 1, and Democracy. 
     - education2:
       organization: Hanover High School
       degree: High School Diploma
@@ -55,6 +55,11 @@ author:
       duration: (November 2013 - June 2015)
       description: I was inducted to Hanover's chapter of the National Honor Society because I satisified requirements pretaining to grade point average, community service hours, leadership experience, and positive character.
       leadership: Treasurer (June 2014 - June 2015)
+    - club2:
+      organization: The HHS Indian
+      leadership: Editor in Chief (September 2014 - June 2015)<br />Web Editor (September 2013 - September 2014)
+      duration: (September 2013 - June 2015)
+      description: The Indian is the student news club of Hanover High School. I joined the club right when it started and helped to establish their main web presence which exists to this day. Eventually, I became Editor in Chief which mean I was responsible for running all aspects of the club along with the faculty advisor.
   languages:
     - language1:
       name: English Proficient

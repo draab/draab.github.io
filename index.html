@@ -90,6 +90,9 @@ layout: default
                 <ul class="timeline">
                     {% for club in site.author.extracirricularExperience %}
                         <li class="timeline-inverted">
+                            {% if education.started %}
+                                <div class="timeline-badge info">    </div>
+                            {% endif %}
                             <div class="timeline-panel grid-block">
                                 <div class="timeline-heading">
                                     {% if club.organization %}
