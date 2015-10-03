@@ -50,6 +50,11 @@ author:
       duration: (2015-2019)
       description: I attended high school at Hanover High School in Hanover, MA. I was the valedictorian of my graduating class and participated in many extracirricular clubs and activties. These activities include Robotics, Band, Newspaper, and National Honor Society.
   extracirricularExperience:
+    - club1:
+      organization: The Rensselaer Polytechnic
+      duration: (September 2015 to present)
+      leadership: Associate News Editor (September 2015 to present)
+      description: <i>The Polytechnic</i> is the student newspaper reporting on events around the campus of Rensselaer Polytechnic Institute. As Associate News Editor, I am repsonsible for helping to layout the news section and reporting in interesting stories for weekly publication on Tuesday.
     - club1: 
       organization: National Honor Society
       duration: (November 2013 - June 2015)
@@ -62,7 +67,7 @@ author:
       description: The Indian is the student news club of Hanover High School. I joined the club right when it started and helped to establish their main web presence which exists to this day. Eventually, I became Editor in Chief which mean I was responsible for running all aspects of the club along with the faculty advisor.
   languages:
     - language1:
-      name: English Proficient
+      name: English
       proficiency: Native
     - language2:
       name: French
@@ -70,19 +75,19 @@ author:
   programmingSkills:
     - skill1:
       name: AutoCAD and Autodesk Inventor
-      percentage: 100%
+      proficiency: Intermediate
     - skill2:
       name: HTML/CSS
-      percentage: 100%
+      proficiency: Intermediate
     - skill3:
       name: Java
-      percentage: 80%
+      proficiency: Intermediate     
     - skill4:
       name: Python
-      percentage: 80%
+      proficiency: Intermediate
     - skill5:
       name: C
-      percentage: 80%
+      proficiency: Amateur
     - skill6:
       name: Linux Server Administration
-      percentage: 70%
+      proficiency: Weekend Warrior
