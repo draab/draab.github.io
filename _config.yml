@@ -51,16 +51,24 @@ author:
       description: I attended high school at Hanover High School in Hanover, MA. I was the valedictorian of my graduating class and participated in many extracirricular clubs and activties. These activities include Robotics, Band, Newspaper, and National Honor Society.
   extracirricularExperience:
     - club1:
+      organization: RPI Senate Web Technologies Group
+      duration: (September to present)
+      description: They maintain open source projects for students of RPI to use. My main project as of the moment is to create an electronic voting system for the Student Senate to use during meetings and eventually for students to use during GM week elections every spring.
+    - club1:
       organization: The Rensselaer Polytechnic
       duration: (September 2015 to present)
       leadership: Associate News Editor (September 2015 to present)
       description: <i>The Polytechnic</i> is the student newspaper reporting on events around the campus of Rensselaer Polytechnic Institute. As Associate News Editor, I am repsonsible for helping to layout the news section and reporting in interesting stories for weekly publication on Tuesday.
-    - club1: 
+    - club2:
+      organization: RPI Pep Band
+      duration: (September 2015 to present)
+      description: Pep Band is a group that performs at RPI Football and Hockey games in order to increase school spirit and get the crowd amped every week.
+    - club3: 
       organization: National Honor Society
       duration: (November 2013 - June 2015)
       description: I was inducted to Hanover's chapter of the National Honor Society because I satisified requirements pretaining to grade point average, community service hours, leadership experience, and positive character.
       leadership: Treasurer (June 2014 - June 2015)
-    - club2:
+    - club4:
       organization: The HHS Indian
       leadership: Editor in Chief (September 2014 - June 2015)<br />Web Editor (September 2013 - September 2014)
       duration: (September 2013 - June 2015)
