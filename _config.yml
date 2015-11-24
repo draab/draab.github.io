@@ -2,8 +2,8 @@
 title: David Raab's Digital Resume
 description: David Raab's blog
 favicon: /assets/images/favicon.ico
-baseurl: http://www.davidraab.me
-url: http://www.davidraab.me
+baseurl: http://resume.davidraab.me
+url: http://resume.davidraab.me
 
 # Build settings
 markdown: kramdown
