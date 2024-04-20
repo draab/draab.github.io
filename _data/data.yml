@@ -1,0 +1,123 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    position: right # position of the sidebar : left or right
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: David Raab
+    tagline: Data Scientist
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: david@davidraab,me
+    phone: 781 264 3758
+    timezone: America/New York
+    citizenship: United States
+    website: davidraab.me #do not add http://
+    linkedin: david-raab
+    xing: 
+    github: draab
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter: 
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf: 
+
+    languages:
+      title: Languages
+      info:
+        - idiom: English
+          level: Native
+
+    interests:
+      title: Interests
+      info:
+        - item: Biking
+          link:
+
+        - item: Hiking
+          link:
+
+        - item: Cooking
+          link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+      Early career engineer in a challenging three year Engineering Leadership Development Program
+      at the Naval Nuclear Laboratory. I have a background in embedded hardware design and am currently
+      working in a Data Science group on anomaly detection.
+
+education:
+    title: Education
+    info:
+      - degree: MS in Electrical Engineering
+        university: Clarkson University
+        time: 2020 - 2024
+      - degree: BS in Electrical Engineering
+        university: Rensselaer Polytechnic Institute
+        time: 2015 - 2019
+
+experiences:
+    title: Experiences
+    info:
+      - role: Rotation in Data Science Unit - Engineering Leadership Development Program
+        time: August 2023 - May 2024
+        company: Naval Nuclear Laboratory, Niskayuna, NY
+        details: |
+          Worked on a team to deliver an anomaly detection digital twin based on a naval plant
+          and documented lessons learned for future NNL projects. I developed a portion of an 
+          internal data science training course on the Pandas library.
+      - role: Rotation at Electric Boat Shipyard - Engineering Leadership Development Program
+        time: July 2023 - August 2023
+        company: Naval Nuclear Laboratory, Groton CT
+        details: |
+          Reviewed receipt inspection procedures and followed build of new construction submarines.
+      - role: Rotation in Laboratory Equipment Design - Engineering Leadership Development Program
+        time: September 2022 - July 2023
+        company: Naval Nuclear Laboratory, Niskayuna, NY
+        details: |
+          Designed a robotic arm based contamination detection system for a radiological glovebox facility.
+          The system used a Universal Robots UR3e collaborative robot in order reduce operator fatigue.
+          Developed a strategy for the introduction of robotics into nuclear hot cells.
+      - role: Electrical Engineer - Shipboard Electrical Systems
+        time: June 2019 - September 2022
+        company: Naval Nuclear Laboratory, Niskayuna, NY
+        details: |
+          Cognizant engineer of the Smart Display, the Human Machine Interface for the next generation Generic
+          Instrumentation and Control system. Cognizant engineer responsibilities entailed prototyping, 
+          specification development, and involving gaining and integrating stakeholder feedback from design
+          and end user organizations across the Naval Nuclear Propulsion Program. I identified and introduced
+          a new ruggedized display vendor to the Program.
+
+          Developed test platform using commercial development boards to mimic shipboard communication interfaces
+          used across the Naval Nuclear Propulsion Program for next generation Generic Instrumentation and 
+          Control processor card development. Provided support for end users and made updates based on their feedback.
+
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: C++
+        level: 50%
+
+      - name: Python
+        level: 50%
+
+      - name: Matlab/Simulink
+        level: 50%
+
+      - name: Labview
+        level: 25%
+
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

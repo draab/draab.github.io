@@ -1,90 +1,23 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Minimal Resume Template</title>
-	<link rel="stylesheet" type="text/css" href="styles.css">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-
-	<div class="container">
-		<div class="hero">
-			<h1 class="name"><strong>David</strong> Raab</h1>
-			<span class="job-title">Electrical Engineer</span>
-			<span class="email">david@davidraab.me</span>
-
-			<h2 class="lead">Recent Rensselaer Polytechnic Institute graduate working at Naval Nuclear Lab.</h2>
-		</div>
-	</div>
-
-<!-- Skills and intrest section -->
-	<div class="container">
-
-		<div class="sections">
-			<h2 class="section-title">Skills</h2>
-
-			<div class="list-card">
-				<div>
-					<h3>Proramming</h3>
-					<span>Matlab, Simulink, Python</span>
-				</div>
-			</div>
-
-			<div class="list-card">
-				<div>
-					<h3>Hardware</h3>
-					<span>FPGA, Arduino</span>
-				</div>
-			</div>
+---
+layout: default
+---
 
 
-		</div>
-		<div class="sections">
-				<h2 class="section-title">Interests</h2>
+{% include career-profile.html %}
 
-				<div class="list-card">
-					<div>
-						<h3>Hobbies</h3>
-						<span>Outdoors, Hiking</span>
-					</div>
-				</div>
-		</div>
-	</div>
+{% unless site.data.data.sidebar.education %}
+  {% include education.html %}
+{% endunless %}
 
-	<!-- Timeeline -->
+{% include experiences.html %}
 
-	<div class="container">
-		<ol class="timeline">
-		  <li>
-		    <p class="line">Work Experience</p>
-		    <span class="point"></span>
-		    <p class="description">
-		      Technical Intern - Naval Nuclear Lab
-		    </p>
-		    <span class="date">Jan - Aug 2019</span>
-		  </li>
+{% include certifications.html %}
 
-		  <li>
-		    <span class="point"></span>
-		    <p class="description">
-		      Rensselaer Union Lead System Administrator
-		    </p>
-		    <span class="date">Jan 2016 - May 2019</span>
-		  </li>
+{% include projects.html %}
 
-		  		  <li>
-		    <p class="line">Education</p>
-		    <span class="point"></span>
-		    <p class="description">
-		      Rensselaer Polytechnic Institute <br />
-					B.S. Electrical Engineering
-		    </p>
-		    <span class="date">2015 - 2019</span>
-		  </li>
-		</ol>
+{% include oss-contributions.html %}
 
-	</div>
+{% include publications.html %}
 
+{% include skills.html %}
 
-</body>
-</html>
